@@ -22,5 +22,12 @@
    "featurs":"https://gadgets.ndtv.com/realme-gt-5g-price-in-india-100486",
    "purchase link":"https://www.amazon.in/Realme-GT-Master-Voyager-Storage/dp/B09DCHYWK7"
    },
+   {
+   "id":"4",
+   "company": "samsung",
+   "modle":"samsung f41",
+   "featurs":"https://www.samsung.com/in/smartphones/galaxy-f/galaxy-f41-blue-128gb-sm-f415fzbgins/buy/?cid=in_paid_ppc_google_galaxy-F41_none_samsunggalaxyF41-eshop-bau-rlsa_text_202010916_11379488624-118248512784-samsung%20f41%20features--538366533507-aud-747500539832:kwd-962334846948&gclid=CjwKCAjw49qKBhAoEiwAHQVTo-P75HtgGoq1RVf3Z-mZPZXIzUd6tPWKbjGrM05mBVMJlv2D1B7esRoCCkQQAvD_BwE",
+   "purchase link":"https://www.amazon.in/Samsung-Galaxy-Fusion-Black-Storage/dp/B08ZNGWCZ1"
+   },
 
 ]
