@@ -36,4 +36,12 @@
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
    "purchase link":"https://www.motorola.in/smartphones-motorola-edge-20/p"
    },
+   
+   {
+    "id":"7",
+   "company": "bb",
+   "modle":"edge 20",
+   "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
+   "purchase link":"https://www.motorola.in/smartphones-motorola-edge-20/p"
+   
 ]
