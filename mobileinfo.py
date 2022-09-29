@@ -22,7 +22,15 @@
    "modle":"realme GT 5G ",
    "featurs":"https://gadgets.ndtv.com/realme-gt-5g-price-in-india-100486",
    "purchase link":"https://www.amazon.in/Realme-GT-Master-Voyager-Storage/dp/B09DCHYWK7"
+   }
+{
+   "id":"5",
+   "company": "redmi",
+   "modle":"redmi note 9 pro",
+   "featurs":"https://www.info.com/serp?q=note%209%20pro%20max%205g&segment=info.0603&s1aid=9007605788&s1cid=12506647400&s1agid=119902232878&s1kid=kwd-1126793349992&utm_source=adwords&gclid=CjwKCAjw49qKBhAoEiwAHQVTo13cScRIKZgfd0ogVoSVLE9OeF_ktzmDEV94fTgiQxRbwALEFGB9ihoC0LEQAvD_BwE",
+   "purchase link":"https://www.amazon.in/Test-Exclusive-551/dp/B0784D862L"
    },
+   
    {
    "id":"4",
    "company": "samsung",
@@ -43,6 +51,5 @@
    "company": "bb",
    "modle":"edge 20",
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
-   "purchase link":"https://www.motorola.in/smartphones-motorola-edge-20/p"
-   
+   "purchase link":"https://www.motorola.in/smartphones-motorola-edg
 ]
