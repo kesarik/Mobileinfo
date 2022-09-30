@@ -69,3 +69,11 @@
    "featurs":"https://www.apple.com/in/iphone-14-pro/specs/",
    "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
    }
+      
+      {
+   "id":"10",
+   "company": "One Plus",
+   "modle":"oneplus nord CE 5G ",
+   "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
+   "purchase link":"https://www.oneplus.in/nord-ce-5g"
+   }
