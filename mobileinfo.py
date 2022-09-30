@@ -77,10 +77,18 @@
    "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
    "purchase link":"https://www.oneplus.in/nord-ce-5g"
    }
-   {
+         {
    "id":"11",
-   "company": "redmi ",
-   "modle":"redmi 9 prime ",
-   "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
-   "purchase link":"https://www.mi.com/in/redmi-9-prime/"
+   "company": "One Plus",
+   "modle":"oneplus nord CE 5G ",
+   "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
+   "purchase link":"https://www.oneplus.in/nord-ce-5g"
    }
+      {
+   "id":"12",
+   "company": "One Plus",
+   "modle":"oneplus nord CE 5G ",
+   "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
+   "purchase link":"https://www.oneplus.in/nord-ce-5g"
+   }
+            
