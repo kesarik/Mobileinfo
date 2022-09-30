@@ -52,4 +52,13 @@
    "modle":"edge 20",
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
    "purchase link":"https://www.motorola.in/smartphones-motorola-edg
+     
+      {
+   
+        "id":"",
+   "company": "Nokia",
+   "modle":"7.1",
+   "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
+   "purchase link":"https://www.Nokia.in/smartphones-Nokia_7.1/p"
+   },
 ]
