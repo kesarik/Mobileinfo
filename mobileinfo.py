@@ -207,19 +207,21 @@
    "purchase link":"https://www.samsung.com/in/samsung-A30-prime/"",
    },
 {
-   "id":"45",
+   "id":"46",
    "company": "realme",
    "modle":"narzo 50i",
-   "featurs":"4 GB RAM | 64 GB ROM | Expandable Upto 256 GB
-16.51 cm (6.5 inch) HD+ Display
-8MP Primary Camera | 5MP Front Camera
-5000 mAh Battery
-Octa-core Processor",
+   "featurs":"4 GB RAM |
    "purchase link":"https://amzn.eu/d/gJJt84R",
  
    },
 
-
+   {
+   "id":"15",
+   "company": "REALME",
+   "modle":"REALME GT MASTER EDITION",
+   "featurs":"https://www.gsmarena.com/realme_gt_master-11001.php",
+   "purchase link":"https://www.amazon.in/Realme-Master-Luna-White-128/dp/B0BG4JN2F4/ref=sr_1_3?adgrpid=67907158731&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb5FRElBbyd5hUw4LqfFFUlneHNsOUhmHETyT5QpYfhqVvOh5juxYHhoC7f8QAvD_BwE&hvadid=398059829938&hvdev=c&hvlocphy=9302376&hvnetw=g&hvqmt=b&hvrand=3013026453894925547&hvtargid=kwd-1395136546280&hydadcr=24535_1971383&keywords=realme+gt+5g+master+edition&qid=1664560326&qu=eyJxc2MiOiI0Ljk3IiwicXNhIjoiNC40OSIsInFzcCI6IjEuNTkifQ%3D%3D&sr=8-3"
+   }  
 
 
 {
