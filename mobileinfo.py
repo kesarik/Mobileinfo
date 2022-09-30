@@ -86,6 +86,15 @@
    "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
    "purchase link":"https://www.oneplus.in/nord-ce-5g"
    }
+ patch-1
+   {
+   "id":"11",
+   "company":"Realme",
+   "modle":"realme narzo 50 Pro 5G",
+   "featurs":"https://www.realme.com/in/realme-narzo-50-pro-5g",
+   "purchase link":"https://amzn.eu/d/bRFZRTq",
+   },
+
     {
    "id":"11",
    "company": "One Plus",
@@ -138,5 +147,4 @@
    "purchase link":"https://www.mi.com/in/redmi-9-prime/"
    }
 
-            
-
+ 
