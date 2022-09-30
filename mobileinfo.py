@@ -61,6 +61,7 @@
    "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
    "purchase link":"https://www.Nokia.in/smartphones-Nokia_7.1/p"
    },
+
    
    {
    
@@ -71,6 +72,7 @@
    "purchase link":"https://amazon.in/samsung-galaxy-f-41"
    },
 
+
 {
    "id":"9",
    "company": "Apple",
@@ -79,14 +81,22 @@
    "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
    }
       
-      {
+
+  {
+   "id":"10",
+   "company": "Realme ",
+   "modle":" XT ",
+   "featurs":"https://www.realme.com/in/realme-xt",
+   "purchase link":"https://www.realme.com/in/realme-xt"
+   } 
+     
+   {
    "id":"10",
    "company": "One Plus",
    "modle":"oneplus nord CE 5G ",
    "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
    "purchase link":"https://www.oneplus.in/nord-ce-5g"
    }
- patch-1
    {
    "id":"11",
    "company":"Realme",
@@ -149,4 +159,4 @@
 
 {
 
- 
+
