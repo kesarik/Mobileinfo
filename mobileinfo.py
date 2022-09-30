@@ -164,6 +164,14 @@
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
+ {
+   
+    "id":"100",
+   "company": "redmi",
+   "modle":"redmi note 10 pro max",
+   "featurs":"High end device",
+   "purchase link":"https://amazon.in/redmi_note10_pro_max-f-41"
+   },
 
 
 
