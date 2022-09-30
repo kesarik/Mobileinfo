@@ -61,7 +61,7 @@
    "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
    "purchase link":"https://www.Nokia.in/smartphones-Nokia_7.1/p"
    },
-]
+
 {
    "id":"9",
    "company": "Apple",
@@ -69,3 +69,12 @@
    "featurs":"https://www.apple.com/in/iphone-14-pro/specs/",
    "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
    }
+      
+  {
+   "id":"10",
+   "company": "Realme ",
+   "modle":" XT ",
+   "featurs":"https://www.realme.com/in/realme-xt",
+   "purchase link":"https://www.realme.com/in/realme-xt"
+   }
+    
