@@ -164,6 +164,7 @@
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
+
  {
    
     "id":"100",
@@ -172,6 +173,24 @@
    "featurs":"High end device",
    "purchase link":"https://amazon.in/redmi_note10_pro_max-f-41"
    },
+    
+   {
+   "id":"45",
+   "company": "Samsung",
+   "modle":"Samsung A30",
+   "featurs":"https://www.samsung.com/in/samsung-A30-prime/",
+   "purchase link":"https://www.samsung.com/in/samsung-A30-prime/"",
+   },
+   
+   
+   {
+   "id":"14",
+   "company": "VIVO",
+   "modle":"V25 Pro",
+   "featurs":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6",
+   "purchase link":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6"
+   }  
+
 
 
 
