@@ -61,7 +61,16 @@
    "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
    "purchase link":"https://www.Nokia.in/smartphones-Nokia_7.1/p"
    },
-]
+   
+   {
+   
+    "id":"88",
+   "company": "Samsung",
+   "modle":"Galaxy f41",
+   "featurs":"High end device",
+   "purchase link":"https://amazon.in/samsung-galaxy-f-41"
+   },
+
 {
    "id":"9",
    "company": "Apple",
@@ -86,9 +95,20 @@
    }
 
 {
+
+{
    "id":"9",
    "company": "MI",
    "modle":"mi 15 Pro Ultra Max Note Plus ",
    "featurs":"https://www.apple.com/in/iphone-14-pro/specs/",
    "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
+}   
+   
+   {
+   "id":"13",
+   "company": "redmi ",
+   "modle":"redmi 9 prime ",
+   "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
+   "purchase link":"https://www.mi.com/in/redmi-9-prime/
+   }
    }
