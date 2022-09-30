@@ -93,3 +93,11 @@
    "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
    "purchase link":"https://www.mi.com/in/redmi-9-prime/"
    }
+
+{
+   "id":"13",
+   "company": "redmi ",
+   "modle":"redmi 9 prime ",
+   "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
+   "purchase link":"https://www.mi.com/in/redmi-9-prime/"
+   }
