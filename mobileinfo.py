@@ -150,12 +150,22 @@
    "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
    "purchase link":"https://www.mi.com/in/redmi-9-prime/"
    }
-     {
+   {
    "id":"12",
    "company": "Redmi ",
    "modle":"Redmi Y3 ",
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
+   }
+   {
+   "id":"13",
+   "company": "REALME ",
+   "modle":"REALME X7 5G ",
+   "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
+   "purchase link":"https://www.mi.com/in/redmi-11-prime/"
+   }  
+
+
 
 {
 
