@@ -165,6 +165,15 @@
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
 
+{
+    "id":"13",
+   "company": "MI",
+   "modle":"redmi note 10S ",
+   "featurs":"OS MIUI 12.5",
+   "purchase link":"https://amzn.eu/d/cIyaxWl",
+},
+
+
  {
    
     "id":"100",
@@ -190,6 +199,7 @@
    "featurs":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6",
    "purchase link":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6"
    }  
+
 
 
 
