@@ -164,6 +164,34 @@
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
+
+{
+    "id":"13",
+   "company": "MI",
+   "modle":"redmi note 10S ",
+   "featurs":"OS MIUI 12.5",
+   "purchase link":"https://amzn.eu/d/cIyaxWl",
+},
+
+
+ {
+   
+    "id":"100",
+   "company": "redmi",
+   "modle":"redmi note 10 pro max",
+   "featurs":"High end device",
+   "purchase link":"https://amazon.in/redmi_note10_pro_max-f-41"
+   },
+    
+   {
+   "id":"45",
+   "company": "Samsung",
+   "modle":"Samsung A30",
+   "featurs":"https://www.samsung.com/in/samsung-A30-prime/",
+   "purchase link":"https://www.samsung.com/in/samsung-A30-prime/"",
+   },
+   
+   
    {
    "id":"14",
    "company": "VIVO",
@@ -171,6 +199,21 @@
    "featurs":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6",
    "purchase link":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6"
    }  
+    {
+   "id":"45",
+   "company": "Samsung",
+   "modle":"Samsung A30",
+   "featurs":"https://www.samsung.com/in/samsung-A30-prime/",
+   "purchase link":"https://www.samsung.com/in/samsung-A30-prime/"",
+   },
+{
+   "id":"46",
+   "company": "realme",
+   "modle":"narzo 50i",
+   "featurs":"4 GB RAM |
+   "purchase link":"https://amzn.eu/d/gJJt84R",
+ 
+   },
 
    {
    "id":"15",
