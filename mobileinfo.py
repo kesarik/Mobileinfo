@@ -164,6 +164,15 @@
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
+
+ {
+   
+    "id":"100",
+   "company": "redmi",
+   "modle":"redmi note 10 pro max",
+   "featurs":"High end device",
+   "purchase link":"https://amazon.in/redmi_note10_pro_max-f-41"
+   },
     
    {
    "id":"45",
@@ -181,6 +190,7 @@
    "featurs":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6",
    "purchase link":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6"
    }  
+
 
 
 
