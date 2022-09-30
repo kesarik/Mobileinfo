@@ -164,8 +164,13 @@
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
-
-
+{
+    "id":"13",
+   "company": "MI",
+   "modle":"redmi note 10S ",
+   "featurs":"OS	‎MIUI 12.5",
+   "purchase link":"https://amzn.eu/d/cIyaxWl",
+},
 
 {
 
