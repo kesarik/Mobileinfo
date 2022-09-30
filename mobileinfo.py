@@ -51,9 +51,6 @@
    "company": "bb",
    "modle":"edge 20",
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
-
-   "purchase link":"https://www.motorola.in/smartphones-motorola-edg"
-   }
    "purchase link":"https://www.motorola.in/smartphones-motorola-edg
      
       {
@@ -64,5 +61,11 @@
    "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
    "purchase link":"https://www.Nokia.in/smartphones-Nokia_7.1/p"
    },
-
 ]
+{
+   "id":"9",
+   "company": "Apple",
+   "modle":"Iphone 15 Pro Ultra Max Note Plus ",
+   "featurs":"https://www.apple.com/in/iphone-14-pro/specs/",
+   "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
+   }
