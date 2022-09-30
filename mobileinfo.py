@@ -53,9 +53,9 @@
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
    "purchase link":"https://www.motorola.in/smartphones-motorola-edg
      
-      {
+   {
    
-        "id":"",
+   "id":"",
    "company": "Nokia",
    "modle":"7.1",
    "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
@@ -92,7 +92,13 @@
    "modle":"redmi 9 prime ",
    "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
    "purchase link":"https://www.mi.com/in/redmi-9-prime/"
-   }
+    }
+   {
+   "id":"12",
+   "company": "redmi ",
+   "modle":"redmi 9 prime ",
+   "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
+   "purchase link":"https://www.mi.com/in/redmi-9-prime/"
 
 {
 
@@ -111,4 +117,5 @@
    "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
    "purchase link":"https://www.mi.com/in/redmi-9-prime/
    }
+
    }
