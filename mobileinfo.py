@@ -48,8 +48,8 @@
    
    {
     "id":"7",
-   "company": "bb",
-   "modle":"edge 20",
+   "company": "ccgggghhhhhbb",
+   "modle":"edge hhhhhhhh20",
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
    "purchase link":"https://www.motorola.in/smartphones-motorola-edg
 ]
