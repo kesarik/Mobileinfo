@@ -51,9 +51,6 @@
    "company": "bb",
    "modle":"edge 20",
    "featurs":"https://www.gsmarena.com/motorola_edge_20-11034.php",
-
-   "purchase link":"https://www.motorola.in/smartphones-motorola-edg"
-   }
    "purchase link":"https://www.motorola.in/smartphones-motorola-edg
      
       {
@@ -74,4 +71,25 @@
    "purchase link":"https://amazon.in/samsung-galaxy-f-41"
    },
 
-]
+{
+   "id":"9",
+   "company": "Apple",
+   "modle":"Iphone 15 Pro Ultra Max Note Plus ",
+   "featurs":"https://www.apple.com/in/iphone-14-pro/specs/",
+   "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
+   }
+      
+      {
+   "id":"10",
+   "company": "One Plus",
+   "modle":"oneplus nord CE 5G ",
+   "featurs":"https://www.oneplus.in/nord-ce-5g/specs",
+   "purchase link":"https://www.oneplus.in/nord-ce-5g"
+   }
+   {
+   "id":"11",
+   "company": "redmi ",
+   "modle":"redmi 9 prime ",
+   "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
+   "purchase link":"https://www.mi.com/in/redmi-9-prime/"
+   }
