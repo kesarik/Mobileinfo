@@ -199,7 +199,25 @@
    "featurs":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6",
    "purchase link":"https://www.flipkart.com/vivo-v25-pro-5g-sailing-blue-128-gb/p/itmeccdbf93bbfc6"
    }  
-
+    {
+   "id":"45",
+   "company": "Samsung",
+   "modle":"Samsung A30",
+   "featurs":"https://www.samsung.com/in/samsung-A30-prime/",
+   "purchase link":"https://www.samsung.com/in/samsung-A30-prime/"",
+   },
+{
+   "id":"45",
+   "company": "realme",
+   "modle":"narzo 50i",
+   "featurs":"4 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+16.51 cm (6.5 inch) HD+ Display
+8MP Primary Camera | 5MP Front Camera
+5000 mAh Battery
+Octa-core Processor",
+   "purchase link":"https://amzn.eu/d/gJJt84R",
+ 
+   },
 
 
 
