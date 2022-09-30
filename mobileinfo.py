@@ -164,6 +164,14 @@
    "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
    "purchase link":"https://www.mi.com/in/redmi-11-prime/"
    }  
+    {
+   "id":"45",
+   "company": "Samsung",
+   "modle":"Samsung A30",
+   "featurs":"https://www.samsung.com/in/samsung-A30-prime/",
+   "purchase link":"https://www.samsung.com/in/samsung-A30-prime/"",
+   },
+   
 
 
 
