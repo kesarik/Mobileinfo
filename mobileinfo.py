@@ -64,5 +64,14 @@
    "featurs":"https://www.gsmarena.com/Nokia_7.1.php",
    "purchase link":"https://www.Nokia.in/smartphones-Nokia_7.1/p"
    },
+   
+   {
+   
+    "id":"88",
+   "company": "Samsung",
+   "modle":"Galaxy f41",
+   "featurs":"High end device",
+   "purchase link":"https://amazon.in/samsung-galaxy-f-41"
+   },
 
 ]
