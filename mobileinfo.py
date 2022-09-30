@@ -131,13 +131,7 @@
    "purchase link":"https://www.apple.com/in/shop/buy-iphone/iphone-14-pro"
 }   
    
-   {
-   "id":"13",
-   "company": "redmi ",
-   "modle":"redmi 9 prime ",
-   "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
-   "purchase link":"https://www.mi.com/in/redmi-9-prime
-   }
+   
 
 {
    "id":"12",
@@ -146,5 +140,13 @@
    "featurs":"https:https://www.mi.com/in/redmi-9-prime/",
    "purchase link":"https://www.mi.com/in/redmi-9-prime/"
    }
+     {
+   "id":"12",
+   "company": "Redmi ",
+   "modle":"Redmi Y3 ",
+   "featurs":"https:https://www.mi.com/in/redmi-11-prime/",
+   "purchase link":"https://www.mi.com/in/redmi-11-prime/"
+
+{
 
  
